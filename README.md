@@ -4,7 +4,9 @@ All resources to quiet down your proliant :)
 
 ## Repositories:
 https://github.com/TmxNoob/proliant-arduino-code - arduino project
+
 https://github.com/TmxNoob/proliant-fan-controller - Python controller
+
 https://github.com/TmxNoob/proliant-fan-pcb - PCB files
 
 ## Pinouts:
