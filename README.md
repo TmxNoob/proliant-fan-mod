@@ -1,14 +1,16 @@
 # proliant-fan-mod
 
-All resources to quiet down your proliant :)
-Sorry for messy pinouts, dont have time now to draw images, will do soon though :)
+All(some) resources to quiet down your proliant :)
+
+I have lost interested in this project so trying to just tie up the ends so people are not complitely stranded.
+
 
 ## Repositories:
-https://github.com/TmxNoob/proliant-arduino-code - arduino project
+https://github.com/TmxNoob/fanmod-code - All fanmod code (Arduino program and Python script)
 
-https://github.com/TmxNoob/proliant-fan-controller - Python controller
+https://github.com/TmxNoob/fanmod-pcb-proliant-dl380e-g8 - DL380e G8 Kicad PCB files
 
-https://github.com/TmxNoob/proliant-fan-pcb - PCB files
+https://github.com/TmxNoob/fanmod-pcb-proliant-dl380p-g8 - DL380p G8 Kicad PCB files
 
 
 ## Pinouts:
